@@ -1,0 +1,5 @@
+make clean 1> /dev/null 2> /dev/null
+make 1> /dev/null
+./a.out < data/in.txt > data/out.txt
+diff -y --suppress-common-line data/out.txt data/ans.txt 
+make clean 1> /dev/null

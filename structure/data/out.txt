@@ -1,0 +1,11 @@
+96 30 94 
+value:30 color:1 left:0 right:0 add:9052224 parent:94
+value:94 color:2 left:30 right:96 add:9052272 parent:0
+value:96 color:1 left:0 right:0 add:9052176 parent:94
+
+value:30 color:1 left:0 right:0 add:9052224 parent:94
+value:94 color:2 left:30 right:0 add:9052272 parent:0
+
+value:94 color:2 left:0 right:0 add:9052272 parent:0
+
+
